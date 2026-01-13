@@ -7,8 +7,8 @@ NC='\033[0m'
 
 BASE_CONTAINER="base-ubuntu"
 IMAGE="ubuntu:20.04"
-SSH_USER="student"
-SSH_PASS="student"
+SSH_USER="tomike"
+SSH_PASS="tomike"
 NETWORK_SUBNET="10.200.200.0/24"
 NETWORK_ADDRESS="10.200.200.1/24"
 HOSTS_FILE="/etc/hosts"
